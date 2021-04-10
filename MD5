@@ -1,0 +1,16 @@
+653cecf1327449e725b53170a96719d7 *DESCRIPTION
+76f642380e0730be29d604e81d7e89a7 *LICENSE
+94186b21cfcaf09594318eb6cb601eaa *NAMESPACE
+b0d8ea6bee0e18fd6023723760c71525 *R/mathjax_node_setup.R
+e1dcede710ec55f66860f29987f33aa3 *R/write_mathjax.R
+8fa6f96c4de04a9642a54ab0c94b7329 *README.md
+c41de1b6a465985b4c5bbfc457c11386 *inst/mathjax-node/mml.js
+62d99e989dac6edd2e33d88d16c295ae *inst/mathjax-node/package.json
+120f05f69a0563e830421ef7f5a82a2e *inst/mathjax-node/svg.js
+7e2a8396f3f2cf6c728c965b27ea1389 *inst/mml2omml.xsl
+d63786e754ebd9410ff392148f97d106 *man/figures/eq1.svg
+63b5266e9d6a14bacd88e76b467db5b0 *man/figures/eq2.svg
+9ce8ea9b56f02ed3c7c26e8e94858dfd *man/mathjax_available.Rd
+88d63ee5fe0c81626fbf2da66ee8217a *man/mathjax_install.Rd
+2f611394dddeffa68f35bc8927ee3924 *man/mathjax_uninstall.Rd
+2fab389fee691546f673cf5b99b804b2 *man/transform_mathjax.Rd
