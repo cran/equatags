@@ -1,11 +1,8 @@
-efa7c678108017a1b43c95f01822b83e *DESCRIPTION
+4e289ae63d0abb4632c3a39a08d0faed *DESCRIPTION
 76f642380e0730be29d604e81d7e89a7 *LICENSE
-1219dd7837c95722ee542f0953dd7bbc *NAMESPACE
-ca7f3f8b2ed7e017ee680cbdfa554437 *NEWS.md
-05aed79476dd93f8d8d7655656eed4e5 *R/mathjax_node_setup.R
-423b9f9a6aa3be17980944aa73327282 *R/write_mathjax.R
-24cea6acfcfc87f3c3a388923332e61f *README.md
+e92d97b3af09f1b1c182fd3982d9ef9d *NAMESPACE
+9816646d03d36124bcc8a430e43e7720 *NEWS.md
+5ed7b957cf2deabbdac4bf018f395718 *R/write_mathjax.R
+e10d74a0021ce81d4fac0d64ddd9b6b8 *README.md
 7e2a8396f3f2cf6c728c965b27ea1389 *inst/mml2omml.xsl
-b5c1438f15b7bebdda53cfe8bfea677f *man/mathjax_available.Rd
-528317326e8fceb9f54470a08b181384 *man/mathjax_uninstall.Rd
-85ed89d4d0fc079a836f3a60710d9358 *man/transform_mathjax.Rd
+44397282f7a855bcf274d766dc3336ff *man/transform_mathjax.Rd
