@@ -1,8 +1,8 @@
-4e289ae63d0abb4632c3a39a08d0faed *DESCRIPTION
+6060ff7e37ecab3ff2f9e27f6d12caa3 *DESCRIPTION
 76f642380e0730be29d604e81d7e89a7 *LICENSE
 e92d97b3af09f1b1c182fd3982d9ef9d *NAMESPACE
-9816646d03d36124bcc8a430e43e7720 *NEWS.md
-5ed7b957cf2deabbdac4bf018f395718 *R/write_mathjax.R
+7fb8414b2a841bb1743f8de4fc8c559d *NEWS.md
+71b33ffba1e8d0391765a5f050a2c1ff *R/write_mathjax.R
 e10d74a0021ce81d4fac0d64ddd9b6b8 *README.md
 7e2a8396f3f2cf6c728c965b27ea1389 *inst/mml2omml.xsl
-44397282f7a855bcf274d766dc3336ff *man/transform_mathjax.Rd
+4f623188bd3b7923e66a52ced4fd7ebe *man/transform_mathjax.Rd
