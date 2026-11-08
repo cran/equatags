@@ -1,8 +1,11 @@
-6060ff7e37ecab3ff2f9e27f6d12caa3 *DESCRIPTION
+e20442efa3fbd9a53bed96a95b590b91 *DESCRIPTION
 76f642380e0730be29d604e81d7e89a7 *LICENSE
-e92d97b3af09f1b1c182fd3982d9ef9d *NAMESPACE
-7fb8414b2a841bb1743f8de4fc8c559d *NEWS.md
-71b33ffba1e8d0391765a5f050a2c1ff *R/write_mathjax.R
+0de5b274fa381ff511b756e250750592 *NAMESPACE
+6576892d4ca60813efeb0d26f0cc4441 *NEWS.md
+d80ebf5c1914318db4bc56f792d58632 *R/write_mathjax.R
 e10d74a0021ce81d4fac0d64ddd9b6b8 *README.md
 7e2a8396f3f2cf6c728c965b27ea1389 *inst/mml2omml.xsl
-4f623188bd3b7923e66a52ced4fd7ebe *man/transform_mathjax.Rd
+c330e1bcb7ab671332b6ce61d04c0fa2 *man/transform_mathjax.Rd
+fdb5ff3d819d25081faeaeaee40444c7 *tests/testthat.R
+00ee5db09750b1844cdca3e7946bc04c *tests/testthat/test-mml.R
+118796804b821d7ff2956ae2bda6f669 *tests/testthat/test-rpr.R
